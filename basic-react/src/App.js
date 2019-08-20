@@ -6,7 +6,9 @@ import Dummy from "./Dummy";
 function App() {
   return (
     <Router basename="basic-react/">
-      <Route path="/" exact component={Dummy} />
+      <div>
+        <Route path="/" exact component={Dummy} />
+      </div>
     </Router>
   );
 }
