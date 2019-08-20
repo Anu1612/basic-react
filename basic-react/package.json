@@ -8,7 +8,7 @@
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
   },
-  "homepage": "http://Anu1612.github.io/buymeacoffee",
+  "homepage": "http://Anu1612.github.io/basic-react",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
